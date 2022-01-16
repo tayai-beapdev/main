@@ -117,6 +117,13 @@ nav .fa{
         font-size: 20;
         font-weight: 300;
     }
+    .provv{
+        width: 80%;
+        margin: auto;
+        text-align: center;
+        padding-top: 100px;
+    }
+}
 
 }
 
