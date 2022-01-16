@@ -7,7 +7,7 @@
 .header{
     min-height: 50vh;
     width: 100%;
-    background-image: (/img/background.png);
+    background-image: /img/background.png;
     background-position: center;
     background-size: cover;
     position: relative;
