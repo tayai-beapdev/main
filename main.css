@@ -104,6 +104,12 @@ nav .fa{
     .text-box h1{
         font-size: 42px;
     }
+    .provv{
+        width: 80%;
+        margin: auto;
+        text-align: center;
+        padding-top: 100px;
+    }
 
     nav .fas{
         display: block;
@@ -116,12 +122,6 @@ nav .fa{
     h1{
         font-size: 20;
         font-weight: 300;
-    }
-    .provv{
-        width: 80%;
-        margin: auto;
-        text-align: center;
-        padding-top: 100px;
     }
 }
 
